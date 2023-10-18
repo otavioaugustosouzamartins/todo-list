@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.edu.unifalmg.service.ChoreServiceTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-09-27T18:50:31" hostname="suporte-OptiPlex-3050" time="0.036">
+  <properties/>
+  <testcase name="deleteChore &gt; When the list is not empty &gt; When the chore exists delete the chore" classname="br.edu.unifalmg.service.ChoreServiceTest" time="0.018"/>
+  <testcase name="#addChore &gt; When the deadline is invalid &gt; Throw an exception" classname="br.edu.unifalmg.service.ChoreServiceTest" time="0.003"/>
+  <testcase name="#add &gt; When the adding a chore &gt; When the chore already exists &gt; Throw an exception" classname="br.edu.unifalmg.service.ChoreServiceTest" time="0.002"/>
+  <testcase name="deleteChore &gt; When The List Is Not Empty &gt; When The Chore Does Exist Throw An Exception" classname="br.edu.unifalmg.service.ChoreServiceTest" time="0.001"/>
+  <testcase name="addChoreWhenTheDescriptionIsInvalidThrowAnException()" classname="br.edu.unifalmg.service.ChoreServiceTest" time="0.004"/>
+  <testcase name="#deleteChore &gt; When the list is empty throw an exception" classname="br.edu.unifalmg.service.ChoreServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
